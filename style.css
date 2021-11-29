@@ -1,3 +1,10 @@
 .App {
     background: blue;
   }
+
+  .person-card{
+    border: 2px solid blue
+  }
+.person-card p {
+  text-decoration:underline;
+}
